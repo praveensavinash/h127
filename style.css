@@ -1,0 +1,41 @@
+body
+{
+    background-color:  greenyellow;
+
+}
+
+
+#Sketch 
+{
+    font-size: 30;
+    font-style: bold;
+
+}
+
+#confidence
+{
+    font-size: 30;
+    font-style: bold;
+
+}
+
+#Drawn
+{
+    font-size: 30;
+    font-style: bold;
+
+}
+
+#Score
+{
+   font-size:30 ;
+   margin: left 10px;;
+   
+
+}
+
+#Timer
+{
+    font-size:30 ;
+    margin-left: 1525px;
+}
